@@ -35,3 +35,17 @@ where the `seriesname` corresponds to the name of subfolders in `RGB-D-Mask Sequ
 
 Camera parameters are provided in the `intrinsic.txt` and `extrinsic.txt`.
 Extrinsics of our cameras are in the format of camera coordinate system to world coordinate system.
+
+## Citation
+
+Our paper if now under review of ICIP-2024.
+If you find our dataset useful in your research, by now, please consider cite:
+
+```
+@misc{POID,
+    title={People-Ojbect-Interaction-Dataset},
+    author={People-Ojbect-Interaction-Dataset Contributors},
+    howpublished = {\url{https://github.com/sjtu-medialab/People-Ojbect-Interaction-Dataset}},
+    year={2021}
+}
+```
