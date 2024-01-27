@@ -1,4 +1,4 @@
-# People-Ojbect-Interaction-Dataset
+# People-Ojbect Interaction Dataset
 
 ![](https://github.com/sjtu-medialab/People-Ojbect-Interaction-Dataset/blob/main/frames.png)
 
