@@ -46,6 +46,6 @@ If you find our dataset useful in your research, by now, please consider cite:
     title={People-Ojbect-Interaction-Dataset},
     author={People-Ojbect-Interaction-Dataset Contributors},
     howpublished = {\url{https://github.com/sjtu-medialab/People-Ojbect-Interaction-Dataset}},
-    year={2021}
+    year={2024}
 }
 ```
