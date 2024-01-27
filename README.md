@@ -5,7 +5,7 @@
 ## Introduction
 
 The people-object interaction dataset comprises 38 series of 30-view multi-person or single-person RGB-D video sequences, complemented by corresponding camera parameters, foreground masks, SMPL models and some point clouds, mesh files.
-Each video sequence boasts a 4K resolution, 25 FPS, and a duration of 1$\sim$19 seconds.
+Each video sequence boasts a 4K resolution, 25 FPS, and a duration of 1~19 seconds.
 All 30 views are captured using Kinect Azure devices in a uniformly surrounding scene.
 
 ## Video Sequences Collection and Post Processing
