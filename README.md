@@ -18,7 +18,7 @@ Details of collected video sequences are show below.
 
 ![](https://github.com/sjtu-medialab/People-Ojbect-Interaction-Dataset/blob/main/contents.png)
 
-For the post processing, we use [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) to extract foreground masks, methods of [Zhou et al.](https://ieeexplore.ieee.org/abstract/document/10008839/) to extract point clouds and mesh files, [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) to extract SMPL models.
+For the post processing, we use [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) to extract foreground masks, methods of [Zhou et al.](https://ieeexplore.ieee.org/abstract/document/10008839/) and [Zhou et al.](https://www.ibc.org/download?ac=18719) to extract point clouds and mesh files, [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) to extract SMPL models.
 
 ## Dataset Download
 
