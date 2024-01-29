@@ -22,7 +22,7 @@ For the post processing, we use [BackgroundMattingV2](https://github.com/PeterL1
 
 ## Dataset Download
 
-At this time, you can access our [BaiduNetdisk](https://pan.baidu.com/s/11T6I3Mw7axq0qwiPNz43Zw?pwd=sjtu )(百度网盘) with verify code of 'sjtu'.
+At this time, you can access our [BaiduNetdisk](https://pan.baidu.com/s/11T6I3Mw7axq0qwiPNz43Zw?pwd=sjtu )(百度网盘) with verify code of 'sjtu', or [Medialab](https://medialab.sjtu.edu.cn/post/people-ojbect-interaction-dataset/).
 More access to our dataset will be released soon.
 
 The name of subfolders in `Meshes and Point Clouds` are defined by:
