@@ -16,7 +16,14 @@ We designed the collecting environment and system as shown below.
 
 Details of collected video sequences are show below.
 
-![](https://github.com/sjtu-medialab/People-Ojbect-Interaction-Dataset/blob/main/contents.png)
+| Category                  | Amount | Duration (s) | Contents                                                                                           |
+|---------------------------|--------|--------------|----------------------------------------------------------------------------------------------------|
+| Empty Scene               | 1      | 1            | The empty scene that has nobody on the stage.                                                      |
+| Camera Calibration        | 1      | 8            | Camera calibration sequences.                                                                      |
+| One Person with Objects   | 23     | 2~19         | Flipping through a book, circling around a chair before sitting down, opening and closing an umbrella, pushing a suitcase, typing on a laptop, holding a chess board, body building, kongfu, flipping through a book and walking around, picking up the laptop, playing telephone while doing exercises, sitting on a chair, lying on a chair, wearing a helmet, playing with stuffed toys, carrying a backpack, holding a backpack, circling with a chess board, circling with a suitcase, reading books on a chair, working on a chair, playing the electronic keyboard, playing the electronic keyboard on a table. |
+| Two People with Objects   | 11     | 2~14         | Two people working together to move a table; two people collaborating to sweep the floor; two people hurrying along, one carrying a backpack and the other pulling a suitcase; two people holding a chessboard; two people shaking hands; two people walking together; two people sitting on chairs talking to each other; two people working on a table; two people talking together; two people talking before a laptop; two people taking photos. |
+| Three People with Objects | 2      | 2~5          | Three people taking a group photo together, three people taking pictures of each other,              |
+
 
 For the post processing, we use [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) to extract foreground masks, methods of [Zhou et al.](https://ieeexplore.ieee.org/abstract/document/10008839/) and [Zhou et al.](https://www.ibc.org/download?ac=18719) to extract point clouds and mesh files, [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) to extract SMPL models.
 
