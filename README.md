@@ -45,14 +45,16 @@ Extrinsics of our cameras are in the format of camera coordinate system to world
 
 ## Citation
 
-Our paper if now under review of ICIP-2024.
+Our paper if now Accepted by ICIP-2024.
 If you find our dataset useful in your research, by now, please consider cite:
 
 ```
-@misc{POID,
-    title={People-Ojbect-Interaction-Dataset},
-    author={People-Ojbect-Interaction-Dataset Contributors},
-    howpublished = {\url{https://github.com/sjtu-medialab/People-Ojbect-Interaction-Dataset}},
-    year={2024}
+@inproceedings{POID,
+  title={A New People-Object Interaction Dataset and NVS Benchmarks},
+  author={Guo, Shuai and Zhong, Houqiang and Wang, Qiuwen and Chen, Ziyu and Gao, Yijie and Yuan, Jiajing and Zhang, Chenyu and Xie, Rong and Song, Li},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
+  year={2024},
+  organization={IEEE}
 }
+
 ```
